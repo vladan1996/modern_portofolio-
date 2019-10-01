@@ -7,7 +7,7 @@ $background-opacity: 0.8;
 @mixin easeOut {
   transition: all 1s ease-out;
 }
-@mixin bacgorund {
+@mixin background {
   @if $show-home-image {
     &#bg-img {
       background: $home-image;

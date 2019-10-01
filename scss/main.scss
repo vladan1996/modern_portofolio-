@@ -1,9 +1,11 @@
 @import "config";
+@import "menu";
+
 * {
   box-sizing: border-box;
 }
 body {
-  @include bacgorund;
+  @include background;
   background-color: $primary-color;
   color: white;
   height: 100%;
