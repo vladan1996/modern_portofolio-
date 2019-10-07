@@ -24,7 +24,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
+  opacity: 0.98;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -204,7 +204,8 @@ main {
     font-size: 2rem;
     border: 3px solid #fff;
     padding: 1.5rem 2.5rem;
-    margin-bottom: 3rem;
+    margin-top: 4rem;
+    margin-bottom: 7.5rem;
     transition: all 1s ease-out; }
     .boxes div:hover {
       padding: 0.5rem 1.5rem;
